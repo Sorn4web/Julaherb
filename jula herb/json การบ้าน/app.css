@@ -1,0 +1,30 @@
+#header1 {
+    margin-top: 100px;
+    text-align: left;
+
+}
+
+#header3 {
+    margin-top: 100px;
+    text-align: left;
+    color: whitesmoke;
+}
+
+
+
+#header2 {
+    margin-top: 100px;
+    text-align: center;
+}
+
+body {
+    background-image: url("https://images.pexels.com/photos/1054222/pexels-photo-1054222.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+}
+
+#table1 {
+    background-color: white;
+}
+
+#table2 {
+    background-color: white;
+}
